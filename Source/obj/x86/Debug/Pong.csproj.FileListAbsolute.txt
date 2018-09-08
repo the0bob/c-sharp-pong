@@ -1,0 +1,10 @@
+C:\Users\Bob\Google Drive\Pong\Pong\Pong\obj\x86\Debug\Pong.csprojResolveAssemblyReference.cache
+C:\Users\Bob\Google Drive\Pong\Pong\Pong\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Bob\Google Drive\Pong\Pong\Pong\bin\x86\Debug\Content\ball.xnb
+C:\Users\Bob\Google Drive\Pong\Pong\Pong\bin\x86\Debug\Content\paddle.xnb
+C:\Users\Bob\Google Drive\Pong\Pong\Pong\bin\x86\Debug\Content\wall.xnb
+C:\Users\Bob\Google Drive\Pong\Pong\Pong\bin\x86\Debug\Pong.exe
+C:\Users\Bob\Google Drive\Pong\Pong\Pong\bin\x86\Debug\Pong.pdb
+C:\Users\Bob\Google Drive\Pong\Pong\Pong\obj\x86\Debug\Pong.exe
+C:\Users\Bob\Google Drive\Pong\Pong\Pong\obj\x86\Debug\Pong.pdb
+C:\Users\Bob\Google Drive\Pong\Pong\Pong\bin\x86\Debug\Content\GameFont.xnb
